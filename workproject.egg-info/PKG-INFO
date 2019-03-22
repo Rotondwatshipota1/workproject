@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: workproject
+Version: 0.1
+Summary: recurtion and sort funtions
+Home-page: https://github.com/<Rotondwatshipota1>/<workproject>
+Author: <Rotondwatshipota1>
+Author-email: <tshipotar@gmail.com>
+License: MIT
+Description: #mypackage
+        this library was created to provide the following funtions ,
+        fibonacci which returns the nth fibonacci number,
+        sum_array which returns the sum of a given array,
+        factorial which returns the factorial of a given n ,
+        reverse which reverses the order of a given word
+        
+        #
+        
+Platform: UNKNOWN
